@@ -1,2 +1,4 @@
-library/heimdall
-library/vaultwarden
+linuxserver/heimdall
+xllxll/qiandao
+linuxserver/calibre-web
+vaultwarden/server
