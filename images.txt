@@ -1,4 +1,1 @@
-linuxserver/heimdall
 xllxll/qiandao
-linuxserver/calibre-web
-vaultwarden/server
