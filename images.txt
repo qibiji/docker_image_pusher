@@ -1,1 +1,4 @@
-dzhuang/tinymediamanager
+lib/heimdall
+lib/qiandao
+lib/calibreweb
+library/vaultwarden
